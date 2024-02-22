@@ -6,7 +6,4 @@ Modul ini merupakan josheet yang digunakan untuk membantu proses belajar di dala
 
 ## Dosen Pengampu Praktikum
 1. [Noprianto, S.Kom., M.Eng](https://github.com/0d3ng)
-2.	Very Sugiarto, S.Pd., M.Kom.
-3.	Candrasena Setiadi, S.T., M.MT.
-4.	Grezio Arifiyahp, S.Kom., M.Kom.
-5.	Moch Zawaruddin Abdullah, S.ST., M.Kom.
+2. [Vipkas Al Hadid Firdaus, S.T., M.T] (https://github.com/vipkas)
